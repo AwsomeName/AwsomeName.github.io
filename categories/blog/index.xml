@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on welcome to lc&#39;s blogs</title>
+    <link>http://awsomename.github.io/categories/blog/</link>
+    <description>Recent content in blog on welcome to lc&#39;s blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Jun 2019 16:48:53 +0800</lastBuildDate>
+    
+	<atom:link href="http://awsomename.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Make_github_pages</title>
+      <link>http://awsomename.github.io/post/make_github_pages/</link>
+      <pubDate>Tue, 11 Jun 2019 16:48:53 +0800</pubDate>
+      
+      <guid>http://awsomename.github.io/post/make_github_pages/</guid>
+      <description>&lt;p&gt;之前的胡言乱语中，说明了选择Hugo的理由。使用后的体验也是，做一个静态的网站确实很合适，上手很快。缺点就是静态网页本身的缺点，想搞成动态的不容易。这里就记录一下如何利用GitHub搭建免费的个人静态博客。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

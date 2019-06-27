@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>md on welcome to lc&#39;s blogs</title>
+    <link>http://awsomename.github.io/categories/md/</link>
+    <description>Recent content in md on welcome to lc&#39;s blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 Jun 2019 23:10:26 +0800</lastBuildDate>
+    
+	<atom:link href="http://awsomename.github.io/categories/md/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn Markdown</title>
+      <link>http://awsomename.github.io/post/learn-markdown/</link>
+      <pubDate>Sat, 08 Jun 2019 23:10:26 +0800</pubDate>
+      
+      <guid>http://awsomename.github.io/post/learn-markdown/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.tureornot.com/2019/06/08/markdown语法学习记录/&#34;&gt;原文&lt;/a&gt;
+还是想学一下MarkDown，正好这个
+&lt;a href=&#34;https://pandao.github.io/editor.md/&#34;&gt;在线编辑器&lt;/a&gt;自带文档,顺手敲了一下，挺好的教程，为了防止以后找不到，搬运至此&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

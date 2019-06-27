@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ss on welcome to lc&#39;s blogs</title>
+    <link>http://awsomename.github.io/categories/ss/</link>
+    <description>Recent content in ss on welcome to lc&#39;s blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Jun 2019 17:16:28 +0800</lastBuildDate>
+    
+	<atom:link href="http://awsomename.github.io/categories/ss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meet_google</title>
+      <link>http://awsomename.github.io/post/meet_google/</link>
+      <pubDate>Sun, 09 Jun 2019 17:16:28 +0800</pubDate>
+      
+      <guid>http://awsomename.github.io/post/meet_google/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.tureornot.com/2019/06/08/梯子启动大法/&#34;&gt;原文&lt;/a&gt;
+expressvpn 挂了，没办法
+sslocal -c /etc/shadowsocks/config.json 这条命令是在自己本机启动代理的。下面记录一下完整的流程：&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
